@@ -1,5 +1,5 @@
 //****************************************************************************************
-//Dark Class (Assignment 2)
+//Dark Class 
 //Kelly Guo
 //Date:November 22, 2012
 //Java, Eclipse 3.4
